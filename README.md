@@ -89,8 +89,3 @@ Confirm the action by typing `yes` when prompted.
 
 Contributions are welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md) for more information.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-https://github.com/Dhiman23/Terraform-VPC.git
-```
